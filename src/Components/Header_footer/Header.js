@@ -22,10 +22,10 @@ class Header extends Component {
             </div>
           </div>
           <Link to="/the_team">
-            <Button color="inherit"> Team</Button>
+            <Button color="inherit"> Teams</Button>
           </Link>
           <Link to="/the_match">
-            <Button color="inherit">Match</Button>
+            <Button color="inherit">Matches</Button>
           </Link>
         </ToolBar>
       </AppBar>
